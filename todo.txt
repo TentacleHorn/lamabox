@@ -1,0 +1,7 @@
+Usability:
+* windows installer
+* global env / internal venv
+
+Features:
+* MP4 to GIF
+- discuss variable delay between frames to smooth out a 60(ish) fps
